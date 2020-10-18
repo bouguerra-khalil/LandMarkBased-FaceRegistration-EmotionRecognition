@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center">LandMark Based Face Registration & Emotion Recognition</h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/Landmark.png">
 
 
 The goal of this notebook is to implement the algorithms  for landmarks based registration.
